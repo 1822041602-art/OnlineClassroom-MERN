@@ -17,4 +17,4 @@ Dự án Tiểu luận Cuối kỳ môn Lập trình Web xây dựng nền tản
 ### 1. Clone dự án
 ```bash
 git clone [https://github.com/1822041602-art/OnlineClassroom-MERN.git](https://github.com/1822041602-art/OnlineClassroom-MERN.git)
-cd OnlineClassroom-MERN
+cd OnlineClassroom
